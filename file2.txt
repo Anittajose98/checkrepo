@@ -1,1 +1,2 @@
 This is file2.txt
+this is file2.tst second line
