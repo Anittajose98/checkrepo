@@ -1,2 +1,6 @@
 This is file1.txt
+<<<<<<< HEAD
 Current changes from the LOCAL
+=======
+This is the second line edited from page
+>>>>>>> 0723bfe6fa144c990e213b6b8b79bfa6aad5c768
